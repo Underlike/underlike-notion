@@ -13,5 +13,8 @@
             "Underlike\\Notion\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+    "repositories": [
+        {"type": "composer", "url": "https://acme.repo.repman.io"}
+    ]
 }
