@@ -1,0 +1,18 @@
+{
+    "name": "underlike/notion",
+    "description": "It's library for use simple API Notion.",
+    "type": "symfony-bundle",
+    "require": {},
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon Axilais",
+            "email": "simon.axilais@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Underlike\\Notion\\": "src/"
+        }
+    }
+}
